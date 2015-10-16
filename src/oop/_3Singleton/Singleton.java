@@ -1,4 +1,4 @@
-package oop.Singleton;
+package oop._3Singleton;
 
 /**
  * µ¥ÀýÄ£Ê½

@@ -1,4 +1,4 @@
-package oop.Prototype;
+package oop._5Prototype;
 
 import java.io.ByteArrayInputStream;
 import java.io.ByteArrayOutputStream;

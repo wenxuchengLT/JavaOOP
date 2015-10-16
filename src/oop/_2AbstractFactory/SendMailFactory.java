@@ -1,7 +1,7 @@
-package oop.AbstractFactory;
+package oop._2AbstractFactory;
 
-import oop.FactoryMethod.MailSender;
-import oop.FactoryMethod.Sender;
+import oop._1FactoryMethod.MailSender;
+import oop._1FactoryMethod.Sender;
 
 public class SendMailFactory implements Provider {
 	@Override

@@ -1,4 +1,4 @@
-package oop.FactoryMethod;
+package oop._1FactoryMethod;
 
 public class SmsSender implements Sender {
 	@Override

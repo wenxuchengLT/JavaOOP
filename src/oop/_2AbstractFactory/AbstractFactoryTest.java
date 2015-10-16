@@ -1,6 +1,6 @@
-package oop.AbstractFactory;
+package oop._2AbstractFactory;
 
-import oop.FactoryMethod.Sender;
+import oop._1FactoryMethod.Sender;
 
 /**
  * 抽象工厂模式测试

@@ -1,4 +1,4 @@
-package oop.FactoryMethod;
+package oop._1FactoryMethod;
 
 public class SendFactory {
 	public static Sender produceMail(){  

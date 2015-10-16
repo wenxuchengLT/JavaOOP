@@ -1,7 +1,7 @@
-package oop.AbstractFactory;
+package oop._2AbstractFactory;
 
-import oop.FactoryMethod.Sender;
-import oop.FactoryMethod.SmsSender;
+import oop._1FactoryMethod.Sender;
+import oop._1FactoryMethod.SmsSender;
 
 public class SendSmsFactory implements Provider {
 	@Override

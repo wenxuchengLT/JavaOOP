@@ -1,4 +1,4 @@
-package oop.FactoryMethod;
+package oop._1FactoryMethod;
 
 /**
  * 静态工厂方法模式测试

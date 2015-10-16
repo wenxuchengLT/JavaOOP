@@ -1,11 +1,11 @@
-package oop.Builder;
+package oop._4Builder;
 
 import java.util.ArrayList;
 import java.util.List;
 
-import oop.FactoryMethod.MailSender;
-import oop.FactoryMethod.Sender;
-import oop.FactoryMethod.SmsSender;
+import oop._1FactoryMethod.MailSender;
+import oop._1FactoryMethod.Sender;
+import oop._1FactoryMethod.SmsSender;
 /**
  * 建造者模式（Builder）
  * @ClassName: Builder 
